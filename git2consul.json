@@ -3,7 +3,7 @@
     "repos": [
         {
             "name": "test_config",
-            "url": "https://github.com/ryanbreen/git2consul_data.git",
+            "url": "https://github.com/paulosrjr/test_config.git",
             "branches": [
                 "dev"
             ],
