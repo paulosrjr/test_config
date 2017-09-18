@@ -1,5 +1,0 @@
-mongo_user: mongo
-mongo_password: mongo
-mongo_host: mongo
-mongo_database: ict
-mongo_port: 27001
